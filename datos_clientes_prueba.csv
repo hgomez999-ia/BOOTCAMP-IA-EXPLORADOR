@@ -1,0 +1,8 @@
+﻿id_ticket,cliente,mensaje,prioridad_real,tecnico_real
+"REQ-001,Empresa XYZ,""¡Hola! Nuestro servidor principal de base de datos se acaba de apagar y no logramos reiniciarlo. Toda la operación de ventas está detenida. Necesitamos ayuda urgente."",Urgente,Carlos"
+"REQ-002,Juan Pérez,""Tengo una duda sobre cómo cambiar mi contraseña del sistema de facturación."",Normal,Ana"
+"REQ-003,Comercio ABC,""El servidor está lento desde ayer, no es crítico pero necesitamos revisarlo."",Normal,Ana"
+"REQ-004,Urgencias Hospital,""¡Emergencia! El sistema de monitores de pacientes se ha caído completamente."",Urgente,Carlos"
+"REQ-005,Luis Gómez,""¿Cómo hago para hacer un mantenimiento programado del servidor este fin de semana?"",Normal,Ana"
+"REQ-006,Banco Central,""¡ALERTA! Todas las transacciones están fallando. Pérdidas millonarias en minutos."",Urgente,Carlos"
+"REQ-007,María López,""No encuentro el botón de exportar reportes en el dashboard."",Normal,Ana"
